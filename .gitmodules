@@ -1,0 +1,3 @@
+[submodule "social-auto-upload"]
+	path = social-auto-upload
+	url = git@github.com:effiy/social-auto-upload.git
